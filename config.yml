@@ -1,5 +1,5 @@
 # RENAME FILE TO 'config.yml'
-bot:
+bot: BotToken
   token: MTAyODIwNzI4MDI3MDg4ODk4MQ.GBKlmg.s69xewVKQMGkPl3xMMHzEs5UADydsxFUKs5xm4
   owner_ids:
     - 889245684140761179
